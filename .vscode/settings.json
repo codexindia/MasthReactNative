@@ -1,0 +1,44 @@
+{
+  "cSpell.words": [
+    "ADMOB",
+    "datetimepicker",
+    "Entypo",
+    "Ionicons",
+    "ironsource",
+    "Masth",
+    "mmkv",
+    "Navs",
+    "netinfo",
+    "Nexgino",
+    "onesignal",
+    "playstore",
+    "qrcode",
+    "reactotron",
+    "todos",
+    "twotalltotems",
+    "zustand"
+  ],
+  "search.exclude": {
+    "**/src/assets/icons/src/**": true,
+    "**/src/assets/images/src/**": true
+  },
+  "files.autoSave": "onFocusChange",
+  "files.exclude": {
+    "**/node_modules": true,
+    "**/ios": true,
+    "**/.bundle": true,
+    "**/__tests__": true,
+    "**/package-lock.json": true,
+    "**/babel.config.js": true,
+    "**/jest.config.js": true,
+    "**/ReactotronConfig.js": true,
+    "**/Gemfile": true,
+    "**/.watchmanconfig": true,
+    "**/yarn.lock": true,
+    "**/declaration.d.ts": true,
+    "**/global.d.ts": true,
+    "**/.node-version": true,
+    "**/.ruby-version": true,
+    "**/patches": true
+  }
+}
